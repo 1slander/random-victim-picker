@@ -1,3 +1,3 @@
 # random-victim-picker
 
-Mini project based on Florin's Pop example. [Link]('https://www.florin-pop.com/')
+Mini project based on Florin's Pop example TEST. [Link]('https://www.florin-pop.com/')
